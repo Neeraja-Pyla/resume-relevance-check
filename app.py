@@ -84,7 +84,9 @@ if jd_file and resume_files:
 =======
 import streamlit as st
 import re, string
-import PyPDF2
+#import PyPDF2
+from pypdf import PdfReader
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
