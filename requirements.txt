@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #----------------------------------------------------------#
                REQUIREMENTS FOR MY APP
@@ -7,3 +8,14 @@
 streamlit
 scikit-learn
 PyPDF2
+=======
+
+#----------------------------------------------------------#
+               REQUIREMENTS FOR MY APP
+#----------------------------------------------------------#
+
+
+streamlit
+scikit-learn
+PyPDF2
+>>>>>>> 7f0c203 (Initial commit: app, requirements, README)
